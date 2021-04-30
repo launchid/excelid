@@ -12,7 +12,7 @@ body {
 
 a {
 	text-decoration: none;
-	color: #edebe9;
+	color: #fff;
 }
 
 img {
@@ -23,20 +23,20 @@ img {
 
 #main {
 	height: 70vh;
-	background-color: #edebe9;
-	color: #201f1e;
+	background-color: #fff;
+	color: #1d1d1f;
 }
 
 #social {
 	height: 20vh;
-	background-color: #edebe9;
-	color: #201f1e;
+	background-color: #fff;
+	color: #1d1d1f;
 }
 
 #copyright {
 	height: 10vh;
-	background-color: #201f1e;
-	color: #edebe9;
+	background-color: #1d1d1f;
+	color: #fff;
 	margin: auto;
 }
 
@@ -62,7 +62,7 @@ img {
 .fa-facebook,
 .fa-twitter
  {
-	color: #201f1e80;
+	color: #1d1d1f80;
 }
 
 .fa-globe:hover {
