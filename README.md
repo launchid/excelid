@@ -1,6 +1,6 @@
 # Excel Indonesia
 
-**Tutorial Belajar Microsoft Excel Bahasa Indonesia**
+**#1 Tutorial Belajar Microsoft Excel Bahasa Indonesia**
 
 Situs web Excel Indonesia membahas lengkap program aplikasi lembar kerja Microsoft Excel mulai dari dasar (basic) sampai mahir (advanced).
 
