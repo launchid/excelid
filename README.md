@@ -9,4 +9,4 @@ Kunjungi situs Excel Indonesia di alamat [excelindonesia.id](https://excelindone
 - [Facebook](https://www.facebook.com/excelindonesia.id)
 - [Twitter](https://twitter.com/excelindonesia)
 
-Excel Indonesia bagian dari [**Launch Indonesia**](https://www.youtube.com/channel/UCxNKZsgtxVGnzcqjNd7ZFFQ).
+Excel Indonesia bagian dari [**Launch Indonesia**](https://www.youtube.com/c/launchid).
