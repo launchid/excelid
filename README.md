@@ -4,7 +4,7 @@
 
 Panduan lengkap membahas program aplikasi lembar kerja Microsoft Excel mulai dari dasar (basic) sampai lanjutan (advanced).
 
-Kunjungi situs Excel Indonesia di alamat [excelindonesia.id](https://excelindonesia.id) atau ikuti akun media sosial kami berikut.
+Kunjungi situs Excel Indonesia di alamat [excelindonesia.com](https://excelindonesia.com) atau ikuti akun media sosial kami berikut.
 
 - [Facebook](https://www.facebook.com/excelidn)
 - [Twitter](https://twitter.com/excelidn)
