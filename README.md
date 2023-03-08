@@ -6,8 +6,11 @@ Panduan lengkap membahas program aplikasi lembar kerja Microsoft Excel mulai dar
 
 Kunjungi situs Excel Indonesia di alamat [excelindonesia.com](https://excelindonesia.com) atau ikuti akun media sosial kami berikut.
 
+- [YouTube](https://www.youtube.com/@excelidn)
+- [Instagram](https://www.instagram.com/excelidn)
+- [TikTok](https://www.tiktok.com/@excelindonesia)
 - [Facebook](https://www.facebook.com/excelidn)
 - [Twitter](https://twitter.com/excelidn)
-- [LinkedIn](https://www.linkedin.com/company/excelidn)
+- [LinkedIn](https://www.linkedin.com/company/excelindonesia)
 
 Excel Indonesia bagian dari [**Launch Indonesia**](https://launchindonesia.com).
